@@ -6,7 +6,7 @@ A simple yet stylish full-stack web app to collect user feedback using a modern 
 
 ## 🚀 Live Demo
 
-🔗 [Live Website](https://your-deployment-link.netlify.app)
+🔗 [Live Website](https://feedback-collector-sonali.netlify.app/)
 
 ---
 
