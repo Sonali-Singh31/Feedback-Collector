@@ -17,7 +17,6 @@ A simple yet stylish full-stack web app to collect user feedback using a modern 
 | **React.js**       | UI library for building the frontend       |
 | **Tailwind CSS**   | Utility-first CSS for rapid styling        |
 | **Firebase**       | Backend (Firestore DB & Hosting support)   |
-| **React Hot Toast**| For toast notifications                    |
 | **Vite**           | Fast development build tool                |
 
 ---
@@ -27,7 +26,6 @@ A simple yet stylish full-stack web app to collect user feedback using a modern 
 - 🎨 Light and dark mode toggle
 - 📝 Submit feedback with name and message
 - 📋 Admin view to see submitted feedback
-- 🔔 Toast notifications on form actions
 - 📱 Responsive design with smooth transitions
 - 🧠 Stored in Firebase Firestore with timestamp ordering
 
